@@ -1,5 +1,10 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
+## DEMO
+
+<img src="public/demo.gif" />
+
+
 ## Compartilhando React Hooks com o Typescript
 
 Olá experts, nessa aula vamos aprender como criar e compartilhar hooks com TypeScript,
